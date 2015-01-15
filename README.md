@@ -16,10 +16,10 @@ var leadingZeros = require('leading-zeros');
 
 // arguments -> (number, amount of zero to be prepended)
 leadingZeros(48, 5); 
-// => 0000048
+// => '0000048'
 
 leadingZeros(-213, 2); 
-// => -00213
+// => '-00213'
 ```
 
 ## License
