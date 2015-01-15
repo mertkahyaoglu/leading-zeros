@@ -20,6 +20,7 @@ leadingZeros(48, 5);
 
 leadingZeros(-213, 2); 
 // => -00213
+```
 
 ## License
 
