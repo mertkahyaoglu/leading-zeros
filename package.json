@@ -1,0 +1,35 @@
+{
+  "name": "leading-zeros",
+  "version": "1.0.0",
+  "description": "Prepend integers with leading zeros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mertkahyaoglu/leading-zeros"
+  },
+  "keywords": [
+    "leading",
+    "zero",
+    "prepend"
+  ],
+  "author": {
+    "name": "Mert Kahyaoğlu",
+    "email": "mertkahyaoglu93@gmail.com",
+    "url": "mertkahyaoglu.github.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mertkahyaoglu/leading-zeros/issues"
+  },
+  "homepage": "https://github.com/mertkahyaoglu/leading-zeros",
+  "dependencies": {
+    "is-finite": "^1.0.0",
+    "repeating": "^1.1.1"
+  }
+}
